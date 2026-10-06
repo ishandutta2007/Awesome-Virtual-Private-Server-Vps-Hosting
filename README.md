@@ -68,7 +68,7 @@ Welcome to the definitive guide on **Virtual Private Server (VPS) hosting**, clo
 
 ## 🔓 Open-Source GitHub Projects
 
-*Open-source projects for building, provisioning, and managing VPS infrastructure. Sorted by GitHub Stars_Count (descending) within each category.*
+*Open-source projects for building, provisioning, and managing VPS infrastructure. Sorted by GitHub_Stars_Count (descending) within each category.*
 
 ### 🖥️ Hypervisors & Virtualization Platforms
 
