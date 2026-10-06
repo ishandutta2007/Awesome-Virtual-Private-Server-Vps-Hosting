@@ -68,11 +68,11 @@ Welcome to the definitive guide on **Virtual Private Server (VPS) hosting**, clo
 
 ## 🔓 Open-Source GitHub Projects
 
-*Open-source projects for building, provisioning, and managing VPS infrastructure. Sorted by GitHub Star Count (descending) within each category.*
+*Open-source projects for building, provisioning, and managing VPS infrastructure. Sorted by GitHub Stars_Count (descending) within each category.*
 
 ### 🖥️ Hypervisors & Virtualization Platforms
 
-| Repository | GitHub Stars | License | Description |
+| Repository | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[OpenStack](https://github.com/openstack)** ☁️ | [<img src="https://img.shields.io/github/stars/openstack/nova?style=social&color=white" alt="OpenStack Stars"/>](https://github.com/openstack/nova/stargazers) | Apache-2.0 | **The leading open-source cloud infrastructure IaaS platform**. Powers public and enterprise private clouds (Compute Nova, Storage Cinder/Swift, Networking Neutron). |
 | **[Proxmox VE](https://github.com/proxmox/pve-manager)** 🖥️ | [<img src="https://img.shields.io/github/stars/proxmox/pve-manager?style=social&color=white" alt="Proxmox Stars"/>](https://github.com/proxmox/pve-manager/stargazers) | AGPL-3.0 | **De facto open-source VMware alternative**. Enterprise Debian-based virtualization management platform with KVM hypervisor, LXC containers, web GUI, clustering, and HA. |
@@ -85,7 +85,7 @@ Welcome to the definitive guide on **Virtual Private Server (VPS) hosting**, clo
 
 ### 🚀 VPS Management & Self-Hosted PaaS
 
-| Repository | GitHub Stars | License | Description |
+| Repository | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Coolify](https://github.com/coollabsio/coolify)** 💎 | [<img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white" alt="Coolify Stars"/>](https://github.com/coollabsio/coolify/stargazers) | Apache-2.0 | **#1 open-source self-hosted PaaS**. Turns any bare VPS into a Heroku / Vercel alternative with Git deployments, automatic SSL, preview environments, and databases. |
 | **[Dokku](https://github.com/dokku/dokku)** 🐳 | [<img src="https://img.shields.io/github/stars/dokku/dokku?style=social&color=white" alt="Dokku Stars"/>](https://github.com/dokku/dokku/stargazers) | MIT | **Docker-powered mini-Heroku**. Lightweight bash PaaS allowing simple `git push dokku main` deployment on any cloud virtual machine. |
@@ -96,7 +96,7 @@ Welcome to the definitive guide on **Virtual Private Server (VPS) hosting**, clo
 
 ### ⚙️ Control Panels & Web Admin Tools
 
-| Repository | GitHub Stars | License | Description |
+| Repository | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Webmin](https://github.com/webmin/webmin)** 📜 | [<img src="https://img.shields.io/github/stars/webmin/webmin?style=social&color=white" alt="Webmin Stars"/>](https://github.com/webmin/webmin/stargazers) | BSD-3-Clause | Veteran web-based system administration panel for Unix/Linux servers to configure user accounts, Apache, DNS, and file sharing. |
 | **[HestiaCP](https://github.com/hestiacp/hestiacp)** 🏆 | [<img src="https://img.shields.io/github/stars/hestiacp/hestiacp?style=social&color=white" alt="HestiaCP Stars"/>](https://github.com/hestiacp/hestiacp/stargazers) | GPL-3.0 | Lightweight and fast open-source web hosting control panel for Linux with Nginx/Apache support, mail server, and DNS management. |
@@ -107,7 +107,7 @@ Welcome to the definitive guide on **Virtual Private Server (VPS) hosting**, clo
 
 ### 🏗️ Infrastructure as Code & Automation
 
-| Repository | GitHub Stars | License | Description |
+| Repository | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Ansible](https://github.com/ansible/ansible)** 🤖 | [<img src="https://img.shields.io/github/stars/ansible/ansible?style=social&color=white" alt="Ansible Stars"/>](https://github.com/ansible/ansible/stargazers) | GPL-3.0 | Agentless configuration management, application deployment, and task automation platform for provisioning cloud VPS. |
 | **[Terraform](https://github.com/hashicorp/terraform)** 🏗️ | [<img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white" alt="Terraform Stars"/>](https://github.com/hashicorp/terraform/stargazers) | BSL-1.1 | De facto Infrastructure as Code (IaC) tool for declarative cloud resource provisioning across AWS, DO, Linode, Vultr, and Hetzner. |
