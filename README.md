@@ -152,3 +152,9 @@ If you found this curated VPS resource useful, please consider starring ⭐, sha
 
 <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-❤-pink?style=for-the-badge&logo=github" alt="Sponsor"/></a>
 
+---
+
+## Source-first VPS offer verification
+
+For readers comparing published VPS terms before checkout, see the open-source [VPS Deals Tools](https://github.com/yumin985/vps-deals-tools) dataset and verification checklist. It records public source URLs and check times; it does not replace the provider's current terms.
+
